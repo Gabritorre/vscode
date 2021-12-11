@@ -1,0 +1,18 @@
+EXTENSIONS LIST:
+code --install-extension 2gua.rainbow-brackets
+code --install-extension abusaidm.html-snippets
+code --install-extension asciidoctor.asciidoctor-vscode
+code --install-extension ecmel.vscode-html-css
+code --install-extension esbenp.prettier-vscode
+code --install-extension formulahendry.auto-rename-tag
+code --install-extension ms-python.python
+code --install-extension ms-python.vscode-pylance
+code --install-extension ms-vscode-remote.remote-wsl
+code --install-extension oderwat.indent-rainbow
+code --install-extension patbenatar.advanced-new-file
+code --install-extension pranaygp.vscode-css-peek
+code --install-extension ritwickdey.LiveServer
+code --install-extension sleistner.vscode-fileutils
+code --install-extension TabNine.tabnine-vscode
+code --install-extension xabikos.JavaScriptSnippets
+code --install-extension yzane.markdown-pdf
