@@ -7,5 +7,6 @@
 	"editor.linkedEditing": true,
 	"liveServer.settings.donotShowInfoMsg": true,
 	"prettier.tabWidth": 4,
-	"prettier.useTabs": true
+	"prettier.useTabs": true,
+	"files.eol": "\n"
 }
