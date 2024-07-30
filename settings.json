@@ -1,5 +1,6 @@
 {
     "workbench.startupEditor": "none",
+    "editor.renderWhitespace": "boundary",
     "files.autoSave": "onFocusChange",
     "editor.detectIndentation": false,
     "tabnine.experimentalAutoImports": true,
